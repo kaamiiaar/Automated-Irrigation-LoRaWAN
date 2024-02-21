@@ -19,6 +19,10 @@ This repository is made to provide a step-by-step guidance for developing an IoT
 - LoRaWAN gateway
 - Any additional sensors or actuators you plan to use
 
+## Proposed Solution Architecture
+<img width="452" alt="image" src="https://github.com/kaamiiaar/Automated-Irrigation-LoRaWAN/assets/47272408/4767bdc0-8307-4512-ab79-da911168f70b">
+
+
 ## Software Requirements
 - Arduino IDE for programming the Arduino Edge Control
 - AWS account for setting up AWS IoT Core and other services (e.g., Lambda, DynamoDB)
