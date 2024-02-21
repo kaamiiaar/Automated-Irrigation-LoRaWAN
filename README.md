@@ -49,6 +49,9 @@ After setting up the hardware and software, deploy your system in the field. Use
 ## Usage
 This section explains how to interact with the system, including any commands or scripts to run for testing or deployment.
 
+## Acknowledgements
+The Arduino code is sourced from Arduino documentation, while the AWS code is obtained from the AWS IoT - LoRaWAN Workshop materials.
+
 ## Contact
 For any queries or further assistance, please contact kamyar1karimi@gmail.com
 
