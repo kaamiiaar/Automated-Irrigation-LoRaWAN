@@ -3,6 +3,8 @@
 ## Overview
 This project aims to create a smart automated irrigation system using Arduino Edge Control equipped with various sensors to monitor environmental conditions. The system utilizes LoRaWAN for communication between the sensors and a central gateway, which then forwards data to AWS IoT Core. This setup allows for efficient water usage in agriculture by automating irrigation based on real-time data analysis.
 
+This repository is made to provide a step-by-step guidance for developing an IoT Solution for smart irrigation using LoRaWAN technology and AWS IoT Services.
+
 ## Features
 - Real-time soil moisture monitoring
 - Temperature and humidity tracking
